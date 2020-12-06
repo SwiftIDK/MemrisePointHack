@@ -15,7 +15,7 @@ For this tool you will need the following: your cookies and csfr token. Here is 
 - Go onto [Memrise](https://app.memrise.com/home/)
 - Open inspect element (right click and hit Inspect) and go into the networking tab. Leave this open, we will need it later
 - Find a course and do a speed review session. Once you reach your review summary page, STOP!
-- Go back to your inspect element. Somewhere near the bottom of the networking you tab click on the text that says something along the lines of "session_end/" or "ajax/session_end". Click it.
+- Go back to your inspect element. Somewhere near the bottom of the networking tab, find the text that says something along the lines of "session_end/" or "ajax/session_end". Click it.
 - Once there scroll down to the request headers and find the header that starts with "Cookie:"
   - Now select everything after "Cookie: " inside the box that will appear around this.
   - Open memrise-hack.sh and paste this where it says "PASTE COOKIE HERE". Make sure to keep it inside the speech marks.
