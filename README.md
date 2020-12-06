@@ -19,10 +19,10 @@ For this tool you will need the following: your cookies and csfr token. Here is 
 - Once there scroll down to the request headers and find the header that starts with "Cookie:"
   - Now select everything after "Cookie: " inside the box that will appear around this.
   - Open memrise-hack.sh and paste this where it says "PASTE COOKIE HERE". Make sure to keep it inside the speech marks.
-- In the area, under Request Headers, find the header that starts with "X-CSRFToken:"
+- In the same area, under Request Headers, find the header that starts with "X-CSRFToken:"
   - Now select everything after "X-CSRFToken: " inside the box that will appear around this.
   - Open memrise-hack.sh and paste this where it says "PASTE CSRFTOKEN HERE". Make sure to keep it inside the speech marks.
-- Now, run the script in git bash (by typing "./memrise-hack.sh"), enter your course id and amount of points and you shall (probably) recieve them! Please note the max amount you can give yourself at a time is 2000.
+- Now, run the script in git bash (by typing "./memrise-hack.sh"), enter your course id and amount of points and you shall (probably) recieve them! Please note the max amount you can give yourself at a time is 2000. I am working on a way to increase this number.
 
 If something is not working, feel free to add me on discord or email me. Those details can be found on my [account page](https://github.com/IsGabriellaCurious).
 
