@@ -7,7 +7,7 @@ This tool should be used for educational purposes only. The creator shall not be
 ## Prerequisites
 Before we continue, make sure you are logged into Memrise and are using a suitable broswer such as Chrome (or any other chromium based ones) or Firfox.
 <br>
-If you haven't already, also go download [Git](https://git-scm.com/downloads) as you will need Git Bash. Or if you are running linux, just put it in the terminal. Mac, I have no clue, this will probably work the same.
+If you don't already, please go download [Git](https://git-scm.com/downloads) as you will need Git Bash. Or if you are running linux, just put it in the terminal. Mac, I have no clue, this will probably work the same.
 
 ## Setup
 For this tool you will need the following: your cookies and csfr token. Here is how you should go about getting these!
