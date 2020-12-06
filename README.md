@@ -5,7 +5,7 @@ This is a little tool that allows you to increase your points on Memrise!
 This tool should be used for educational purposes only. The creator shall not be held responsible for any unforeseen circumstances caused by this script.
 
 ## Prerequisites
-Before we continue, make sure you are logged into Memrise and are using a suitable broswer such as Chrome, Edge (the new one) or Firfox.
+Before we continue, make sure you are logged into Memrise and are using a suitable broswer such as Chrome (or any other chromium based ones) or Firfox.
 <br>
 If you haven't already, also go download [Git](https://git-scm.com/downloads) as you will need Git Bash. Or if you are running linux, just put it in the terminal. Mac, I have no clue, this will probably work the same.
 
