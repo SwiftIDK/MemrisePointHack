@@ -3,12 +3,11 @@ This is a little tool that allows you to increase your points on Memrise!
 
 ## Disclaimer
 This tool should be used for educational purposes only. The creator shall not be held responsible for any unforeseen circumstances caused by this script.
-This should be used for educational purposes only.
 
 ## Prerequisites
 Before we continue, make sure you are logged into Memrise and are using a suitable broswer such as Chrome, Edge (the new one) or Firfox.
 <br>
-If you haven't already, also go download [Git](https://git-scm.com/downloads) as you will need Git Bash.
+If you haven't already, also go download [Git](https://git-scm.com/downloads) as you will need Git Bash. Or if you are running linux, just put it in the terminal. Mac, I have no clue, this will probably work the same.
 
 ## Setup
 For this tool you will need the following: your cookies and csfr token. Here is how you should go about getting these!
