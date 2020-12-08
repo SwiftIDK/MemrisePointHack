@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# Enter your codes here
+# Enter your codes here. DO NOT INLUCDE THE "Cookies: " AND "X-CSRFToken: " HEADERS. THERE SHOULD BE NO SPACE AT THE START OR END
 cookieCode="PASTE COOKIE HERE"
 csrfToken="PASTE CSRFTOKEN HERE"
 
-# Don't edit any of this
+# -- Don't edit anything below this -- 
 
 # Functions
 function givePoints {
@@ -20,6 +20,7 @@ echo "Epic, now enter how many points you want."
 read -p "Points : " points
 echo "Attempting to give you the points!"
 
+# The actual giving of the points
 if [ $points -le 2000 ]
 then
     echo "Below 2000, all have been given."
