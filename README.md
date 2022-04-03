@@ -1,6 +1,9 @@
 # Memrise Point Hack
 This is a little tool that allows you to increase your points on Memrise!
 
+# !! THIS TOOL NO LONGER WORKS !!
+Memrise has updated how they do their end of session requests. Both by changing the URL and removing bonus points (as far as I can tell), which was what was used to increment points. At first glance there isn't an obvious fix and to be honest since I don't use this anymore, I don't really inntend to look for one. If you used this tool, I hope you enjoyed your days of getting around homework 😜
+
 ## Disclaimer
 This tool should be used for educational purposes only. The creator shall not be held responsible for any unforeseen circumstances caused by this script.
 
